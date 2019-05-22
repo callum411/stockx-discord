@@ -6,7 +6,7 @@ const request = require("request").defaults({
 
 var config = {
     prefix: "!",
-    token: ""
+    token: "Mzg1MTQ0NDgzNTI1ODIwNDI2.XMBFCQ.VYWnexivX_7hFruD1Dc1cDBy8hU"
 }
 var api = {};
 api.stockX = {};
